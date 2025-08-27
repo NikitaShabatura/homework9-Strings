@@ -14,6 +14,7 @@ public class PhoneCleanerRegex {
         break;
       }
 
+
       // TODO:напишите ваш код тут, результат вывести в консоль.
     }
   }
